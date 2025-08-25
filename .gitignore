@@ -6,6 +6,7 @@ sina.html
 
 # C extensions
 *.so
+forso
 
 # Packages
 *.egg
